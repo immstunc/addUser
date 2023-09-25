@@ -1,0 +1,8 @@
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\bin\Debug\ListeyeKullanıcıEkleme.exe.config
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\bin\Debug\ListeyeKullanıcıEkleme.exe
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\bin\Debug\ListeyeKullanıcıEkleme.pdb
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\obj\Debug\ListeyeKullanıcıEkleme.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\obj\Debug\ListeyeKullanıcıEkleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\obj\Debug\ListeyeKullanıcıEkleme.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\obj\Debug\ListeyeKullanıcıEkleme.exe
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\ListeyeKullanıcıEkleme\ListeyeKullanıcıEkleme\obj\Debug\ListeyeKullanıcıEkleme.pdb
